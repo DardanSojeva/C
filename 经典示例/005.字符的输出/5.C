@@ -4,7 +4,7 @@ main()
 {
 	char ch,nch;	/* */
 	int count;	/* */
-	int k;		/* */
+	int k;		/*  . */
 
 	printf("Please input a string with a # in the end.\n");
 	scanf("%c",&ch);	/* */
